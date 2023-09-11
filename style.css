@@ -1,0 +1,39 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    margin: 0px;
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    font-size: 30;
+}
+
+#instruct
+{
+    float: right;
+    font-size: 15px;
+    font-family: 'Mynerve', cursive;
+}
+
+#status
+{
+    font-size: 15px;
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+.footer
+{
+    bottom: 0px !important;
+    position: fixed;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 3;
+    width: 100%;
+    margin: 0px;
+}
+
